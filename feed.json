@@ -1,0 +1,77 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "",
+    "home_page_url": "http://amwriting.ca",
+    "feed_url": "http://amwriting.ca/feed.json",
+    "items": [
+        {
+            "id": "http://amwriting.ca/blog/blog-changes.html",
+            "url": "http://amwriting.ca/blog/blog-changes.html",
+            "title": "Party Like it is 2006!",
+            "summary": "I know, I know. I've had this blog for a long time, and done far less with it than I probably wanted to, so instead of writing more content, I've decided to spend some time sprucing the place up.",
+            "date_modified": "2020-10-19T00:00:00.000Z"
+        },
+        {
+            "id": "http://amwriting.ca/blog/this-is-a-blog-post.html",
+            "url": "http://amwriting.ca/blog/this-is-a-blog-post.html",
+            "title": "This is a Blog Post",
+            "summary": "I mean, at this point, is it really anxiety, or just common sense? [author's note: I just got up and filled the dishwasher with dirty dishes in the middle of writing this. I had no intention of walking away from this, and hadn't really realized what I was doing until I was halfway through the chore. See? Sometimes hard to spot.]",
+            "date_modified": "2020-09-25T00:00:00.000Z"
+        },
+        {
+            "id": "http://amwriting.ca/blog/where-is-liam.html",
+            "url": "http://amwriting.ca/blog/where-is-liam.html",
+            "title": "On Moving On",
+            "summary": "I told myself, as I tried multiple times to join the team that if Kris ever called again, I would give it serious consideration.",
+            "date_modified": "2020-07-01T00:00:00.000Z"
+        },
+        {
+            "id": "http://amwriting.ca/blog/long-time-no.html",
+            "url": "http://amwriting.ca/blog/long-time-no.html",
+            "title": "Long Time, No ...",
+            "summary": "I also started a programming project for designing cross stitch patterns. It's something I could publish on this site, but it's currently an ugly mess and I haven't paid attention to it in more than a month. Again, it just stopped feeling important.",
+            "date_modified": "2020-06-30T00:00:00.000Z"
+        },
+        {
+            "id": "http://amwriting.ca/blog/performance-improvements.html",
+            "url": "http://amwriting.ca/blog/performance-improvements.html",
+            "title": "Performance Improvements",
+            "summary": "Want a field on a model? Sure. Just access it. Rails will take care of that for you. But what you might not understand (or you might not care about, because you're trying to implement features, not optimize prematurely) is that, in the background, if your model was lazily loaded, accessing that field will be running a query against the database. Not a huge deal when you're operating on a single model one time, and certainly preferable, performance-wise to always getting every associated model in all cases.",
+            "date_modified": "2020-01-22T00:00:00.000Z"
+        },
+        {
+            "id": "http://amwriting.ca/blog/dream-vacation.html",
+            "url": "http://amwriting.ca/blog/dream-vacation.html",
+            "title": "Your Dream Vacation",
+            "summary": "I don't have much nostalgia for the past four years yet. I'd probably go back to some jobs and say things that I couldn't at the time, because I was worried about the repercussions. Nothing bridge-burning, but words that would make things better for both the companies I worked at and the people who worked there.",
+            "date_modified": "2019-10-12T00:00:00.000Z"
+        },
+        {
+            "id": "http://amwriting.ca/blog/derby-time-again.html",
+            "url": "http://amwriting.ca/blog/derby-time-again.html",
+            "title": "Derby Time Again",
+            "summary": "I love sports. I love pushing myself and getting better, and being able to see the improvement. So watching my wife improve so much while I sat on the sidelines and watched was hard. In April, 2017, I got a set of equipment and started to referee.",
+            "date_modified": "2019-08-27T00:00:00.000Z"
+        },
+        {
+            "id": "http://amwriting.ca/blog/search-for-new-computer.html",
+            "url": "http://amwriting.ca/blog/search-for-new-computer.html",
+            "title": "Quest for a New Computer",
+            "summary": "I thought about the Lenovo Thinkpad X1 Carbon. It's well-regarded, and the path to getting Linux running on it is well-documented. There have been some power management issues, and driver support is never entirely clear to me. So I didn't jump right away. I came to the conclusion that if I wanted to be sure of operating system and hardware, and I wanted a machine to work on right away rather than play with and coax to work, I should probably just get a Mac. Which led me to the idea of buying used.",
+            "date_modified": "2019-07-13T00:00:00.000Z"
+        },
+        {
+            "id": "http://amwriting.ca/blog/google-mobile-device-policy.html",
+            "url": "http://amwriting.ca/blog/google-mobile-device-policy.html",
+            "title": "Lock Screen Required for G-Suite Apps",
+            "date_modified": "2019-06-24T00:00:00.000Z"
+        },
+        {
+            "id": "http://amwriting.ca/blog/20-to-43-2.html",
+            "url": "http://amwriting.ca/blog/20-to-43-2.html",
+            "title": "The Titles",
+            "summary": "Thanks to some online title generator, I've got the titles for the target stories for this year's 20-to challenge. Will I get through them all? Sure. Let's say yes, I will. Because. Anyway, I reserve the right to throw the genres in the blender, and even to modify the titles if they don't work for the story I come up with.",
+            "date_modified": "2019-04-09T00:00:00.000Z"
+        }
+    ]
+}
